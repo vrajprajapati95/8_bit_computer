@@ -16,10 +16,12 @@ Ensure you have Proteus installed with all necessary components and libraries fo
    ```
 
 2. Open Proteus and import the project file (`project.pdsprj`) located in the repository.
-## Running the Simulation
-1. Open Proteus.
-2. Load the project file (`8_bit_computer_overview`).
-3. Double-click on the main simulation component to start the simulation.
+##Running the Simulation
+Open Proteus Design Suite.
+Load the main project file:
+👉 8_bit_computer_overview.pdsprj
+Click the Run Simulation button to start the simulation.
+Observe the working of the 8-bit computer and modify components as needed.
 
 ## Built With
 - [Proteus Design Suite](https://www.labcenter.com/) - Electronic design automation software.

@@ -26,13 +26,14 @@ Ensure you have Proteus installed with all necessary components and libraries fo
 
 ## Acknowledgments
 - This project is based on the work and schematics provided by Ben Eater. For detailed explanations and tutorials, visit [Ben Eater's YouTube channel](https://www.youtube.com/user/eaterbc).
+- here you can find all the necessary schematics as provided by Ben Eater : [schematics and other educational resources](https://eater.net/8bit/)
 
 ## Author
 - Your Name
 - Contact information (optional)
 
 ## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Let me know if you need any more modifications! 🚀
+Let me know if you need any more modifications! 

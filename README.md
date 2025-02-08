@@ -18,7 +18,7 @@ Ensure you have Proteus installed with all necessary components and libraries fo
 2. Open Proteus and import the project file (`project.pdsprj`) located in the repository.
 ## Running the Simulation
 1. Open Proteus.
-2. Load the project file (`project.pdsprj`).
+2. Load the project file (`8_bit_computer_overview`).
 3. Double-click on the main simulation component to start the simulation.
 
 ## Built With
@@ -29,8 +29,7 @@ Ensure you have Proteus installed with all necessary components and libraries fo
 - here you can find all the necessary schematics as provided by Ben Eater : [schematics and other educational resources](https://eater.net/8bit/)
 
 ## Author
-- Your Name
-- Contact information (optional)
+- Vraj Prajapati
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
